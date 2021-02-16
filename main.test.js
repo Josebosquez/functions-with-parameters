@@ -16,11 +16,14 @@ function multiply (aNumber){
 function modYBy (q){
   y = y % q;
 }
+
 function opposite (o) {
   z = -1  * o;
 }
 
-function
+function makeFullName(string){
+  name = name + " " + string
+}
 
 
 
