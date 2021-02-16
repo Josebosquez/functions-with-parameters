@@ -4,6 +4,20 @@ Your code goes below.
 
 */
 
+let x = 3;
+let y = 10;
+let z = 5;
+let name = 'Jose';
+let greeting = "Hey"
+
+function multiply (aNumber){
+  x = x * aNumber;
+}
+function modYBy (q){
+  y = y / q;
+}
+
+
 
 
 
