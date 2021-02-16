@@ -8,7 +8,7 @@ let x = 3;
 let y = 10;
 let z = 5;
 let name = 'Jose';
-let greeting = "Hey"
+let greeting = "HEY"
 
 function multiply (aNumber){
   x = x * aNumber;
@@ -25,10 +25,9 @@ function makeFullName(string){
   name = name + " " + string
 }
 
-
-
-
-
+function yellAt(at){
+  greeting = greeting + ", " + at + "!"
+}
 
 
 /*********************************************************************************************************************
