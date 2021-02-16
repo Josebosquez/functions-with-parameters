@@ -14,8 +14,13 @@ function multiply (aNumber){
   x = x * aNumber;
 }
 function modYBy (q){
-  y = y / q;
+  y = y % q;
 }
+function opposite (o) {
+  z = -1  * o;
+}
+
+function
 
 
 
